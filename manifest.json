@@ -1,0 +1,12 @@
+{
+  "name": "포르투갈 신혼여행",
+  "short_name": "Porto Trip",
+  "start_url": "./porto_trip.html",
+  "display": "standalone",
+  "background_color": "#F7F3E9",
+  "theme_color": "#123049",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
